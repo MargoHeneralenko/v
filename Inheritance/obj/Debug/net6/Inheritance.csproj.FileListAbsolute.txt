@@ -1,0 +1,11 @@
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/bin/Debug/net6/Inheritance.deps.json
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/bin/Debug/net6/Inheritance.dll
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/bin/Debug/net6/Inheritance.pdb
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/obj/Debug/net6/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/obj/Debug/net6/Inheritance.AssemblyInfoInputs.cache
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/obj/Debug/net6/Inheritance.AssemblyInfo.cs
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/obj/Debug/net6/Inheritance.csproj.CoreCompileInputs.cache
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/obj/Debug/net6/Inheritance.dll
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/obj/Debug/net6/refint/Inheritance.dll
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/obj/Debug/net6/Inheritance.pdb
+/Users/mariayerliniekova/RiderProjects/inheritance/Inheritance/obj/Debug/net6/ref/Inheritance.dll
