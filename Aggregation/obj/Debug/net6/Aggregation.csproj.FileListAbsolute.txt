@@ -1,0 +1,11 @@
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/bin/Debug/net6/Aggregation.deps.json
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/bin/Debug/net6/Aggregation.dll
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/bin/Debug/net6/Aggregation.pdb
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/obj/Debug/net6/Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/obj/Debug/net6/Aggregation.AssemblyInfoInputs.cache
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/obj/Debug/net6/Aggregation.AssemblyInfo.cs
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/obj/Debug/net6/Aggregation.csproj.CoreCompileInputs.cache
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/obj/Debug/net6/Aggregation.dll
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/obj/Debug/net6/refint/Aggregation.dll
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/obj/Debug/net6/Aggregation.pdb
+/Users/mariayerliniekova/RiderProjects/aggregation/Aggregation/obj/Debug/net6/ref/Aggregation.dll
