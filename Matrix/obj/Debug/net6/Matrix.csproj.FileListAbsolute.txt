@@ -1,0 +1,11 @@
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/bin/Debug/net6/MatrixLibrary.deps.json
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/bin/Debug/net6/MatrixLibrary.dll
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/bin/Debug/net6/MatrixLibrary.pdb
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/obj/Debug/net6/Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/obj/Debug/net6/Matrix.AssemblyInfoInputs.cache
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/obj/Debug/net6/Matrix.AssemblyInfo.cs
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/obj/Debug/net6/Matrix.csproj.CoreCompileInputs.cache
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/obj/Debug/net6/MatrixLibrary.dll
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/obj/Debug/net6/refint/MatrixLibrary.dll
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/obj/Debug/net6/MatrixLibrary.pdb
+/Users/mariayerliniekova/RiderProjects/matrix/Matrix/obj/Debug/net6/ref/MatrixLibrary.dll

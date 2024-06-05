@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nLR32mtpTLk3QC6TZvFUvGxm5pmR5HtE1ctVp3yZm6BrGqnviJkjrLgekpwOaCndWJZl2jTPifeoYF5xpKJmxw==",
+  "success": true,
+  "projectFilePath": "/Users/mariayerliniekova/RiderProjects/matrix/Matrix/Matrix.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariayerliniekova/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/mariayerliniekova/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
