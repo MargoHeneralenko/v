@@ -1,0 +1,11 @@
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/bin/Debug/net6/Interfaces.deps.json
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/bin/Debug/net6/Interfaces.dll
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/bin/Debug/net6/Interfaces.pdb
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/obj/Debug/net6/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/obj/Debug/net6/Interfaces.AssemblyInfoInputs.cache
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/obj/Debug/net6/Interfaces.AssemblyInfo.cs
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/obj/Debug/net6/Interfaces.csproj.CoreCompileInputs.cache
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/obj/Debug/net6/Interfaces.dll
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/obj/Debug/net6/refint/Interfaces.dll
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/obj/Debug/net6/Interfaces.pdb
+/Users/mariayerliniekova/RiderProjects/interface/Interfaces/obj/Debug/net6/ref/Interfaces.dll

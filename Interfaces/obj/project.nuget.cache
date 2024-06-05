@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pp9yRB9bGT71L7/9ayejjypHtHwbFxTL1e/6mXNRo4xPiQBtXtYZVLvp51Y+7gsWlfGqg8WBMBgexwvTgM/SMw==",
+  "success": true,
+  "projectFilePath": "/Users/mariayerliniekova/RiderProjects/interface/Interfaces/Interfaces.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariayerliniekova/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/mariayerliniekova/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
